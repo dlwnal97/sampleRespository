@@ -1,2 +1,2 @@
 # team-project
-sample Respository
+for Business Analytics class
